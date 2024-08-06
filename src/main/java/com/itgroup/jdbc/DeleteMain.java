@@ -11,6 +11,8 @@ public class DeleteMain {
         System.out.print("삭제할 아이디 번호: ");
         String id = scan.next();
 //라랄랄랄라
+        //하하하하하하하하하
+
 
         MemberDao dao = new MemberDao();
         int cnt = -1;
